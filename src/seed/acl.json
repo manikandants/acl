@@ -1,0 +1,9 @@
+[{
+    "resource" : "/api/acl/",
+    "roles" : [ 
+        "admin"
+    ],
+    "permissions" : [
+        "*"
+    ]
+}]

@@ -1,0 +1,34 @@
+{
+  "name": "locus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp test",
+    "start": "npm install && gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://manikandants@bitbucket.org/manikandants/locus.git"
+  },
+  "author": "Manikandan TS <manikandan.citeee@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/manikandants/locus#readme",
+  "devDependencies": {
+    "@types/async": "^2.0.40",
+    "@types/body-parser": "^1.16.3",
+    "@types/lodash": "^4.14.66",
+    "@types/mongoose": "^4.7.18",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-typescript": "^3.1.7",
+    "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "async": "^2.4.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.10.7"
+  }
+}
